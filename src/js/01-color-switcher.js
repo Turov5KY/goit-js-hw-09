@@ -8,6 +8,8 @@ const refs = {
   stop: document.querySelector('button[data-stop]'),
 };
 
+let intervalId;
+
 const { body, start, stop } = refs;
 
 start.addEventListener('click', onStartColorSwitcher);
