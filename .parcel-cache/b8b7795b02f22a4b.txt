@@ -103,7 +103,7 @@
 73C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\posthtml-render\dist133071923171137831 1
 91C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\transformer-image\package.json133071923172484227 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\KR.js133071923194031779 0
-44C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist133075499215371803 1
+44C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist133075500702330534 1
 78C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lines-and-columns\LICENSE133071923165413152 0
 82C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\source-map-support\LICENSE.md133071923171367223 0
 94C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\index.js133071923175376852 0
@@ -150,7 +150,7 @@
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\weak-lru-cache\dist133071923165293477 1
 73C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\msgpackr\unpack.d.ts133071923176434020 0
 82C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\source-map-js\source-map.d.ts133071923175346934 0
-74C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.c5cceb39.js133075499215107559 0
+74C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.c5cceb39.js133075500701901679 0
 52C:\Users\Turov5KY\Desktop\goit-js-hw-09\README.uk.md133071915272954156 0
 62C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@mischnic133071923150236518 1
 66C:\Users\Turov5KY\Desktop\goit-js-hw-09\src\01-color-switcher.html133071809300000000 0
@@ -207,7 +207,7 @@
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\UG.js133071923203938907 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\stable\package.json133071923165303451 0
 78C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\binary-extensions\license133071923165562752 0
-67C:\Users\Turov5KY\Desktop\goit-js-hw-09\src\js\01-color-switcher.js133075499074420856 0
+67C:\Users\Turov5KY\Desktop\goit-js-hw-09\src\js\01-color-switcher.js133075499537058099 0
 76C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\weak-lru-cache\index.js133071923168464981 0
 90C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\portals.js133071923201766507 0
 62C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@trysound133071923150276408 1
@@ -228,7 +228,7 @@
 109C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files133071923179987172 1
 86C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Block.js133071923173431690 0
 64C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\safe-buffer133071923169851275 1
-61C:\Users\Turov5KY\Desktop\goit-js-hw-09\src\js\03-promises.js133074636033120481 0
+61C:\Users\Turov5KY\Desktop\goit-js-hw-09\src\js\03-promises.js133075500587967393 0
 115C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed133071923180906689 1
 69C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\msgpackr\LICENSE133071923165403185 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\posthtml\lib\api.js133071923167288140 0
@@ -258,7 +258,7 @@
 61C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\chokidar133071923172603909 1
 89C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\css-what\lib\commonjs\types.d.ts.map133071923175476581 0
 57C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@swc133071923150276408 1
-65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.0ccda93c.js133075499215127759 0
+65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.0ccda93c.js133075500701901679 0
 79C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\util\RangeIterable.js133071923185738234 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\callsites\readme.md133071923169921088 0
 81C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\transformer-json\src133071923168385199 1
@@ -755,7 +755,7 @@
 86C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\config133071923173870525 1
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\yaml\parse-cst.d.ts133071923181375435 0
 64C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\mod.ts133071923186276790 0
-67C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.html133075499215107559 0
+67C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.html133075499270549198 0
 86C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\LICENSE133071923173920390 0
 87C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Atrule.js133071923170619224 0
 70C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\yaml\parse-cst.js133071923176872848 0
@@ -846,7 +846,7 @@
 83C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\yaml\dist\warnings-1000a372.js133071923180567591 0
 92C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\fast-glob\out\providers\filters\deep.js133071923170828658 0
 78C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\notiflix\src\notiflix.css133072053947884959 0
-65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.6d1ff76b.js133075499215137478 0
+65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.6d1ff76b.js133075500701931603 0
 70C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\yaml\browser\dist133071923180747114 1
 65C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\sass\LICENSE133071923167278169 0
 100C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\lib\requests\WriteBundleRequest.js133071923187204312 0
@@ -1245,7 +1245,7 @@
 82C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\bs.js133072050247793032 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\transformer-postcss\src133071923172933028 1
 75C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\to-regex-range\LICENSE133071923168066057 0
-69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.6d1ff76b.js.map133075499215197318 0
+69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.6d1ff76b.js.map133075500702001417 0
 130C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133071923181634738 0
 76C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\node-gyp-build\index.js133071923168943709 0
 68C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\acorn\bin\acorn133071923165901860 0
@@ -1528,6 +1528,7 @@
 70C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\source-map-js\lib133071923174159745 1
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\passwordrules.js133071923201579413 0
 70C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\nan\doc\script.md133071923179797684 0
+72C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.dcf642d3.js.map133075500702071497 0
 81C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\queue-microtask\package.json133071923168105947 0
 74C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\source-map-js\LICENSE133071923165323399 0
 79C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\source-map-js\package.json133071923174518784 0
@@ -1941,6 +1942,7 @@
 109C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133071923178002482 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\NI.js133071923201265986 0
 76C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\ordered-binary\index.js133071923168504879 0
+72C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.0a150c39.js.map133075500702071497 0
 80C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\ordered-binary\package.json133071923171257513 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\ordered-binary\rollup.config.js133071923169442371 0
 79C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\nth-check\lib\parse.js.map133071923175935361 0
@@ -2213,7 +2215,7 @@
 77C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb-win32-x64\README.md133071923167996239 0
 92C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Parentheses.js133071923184396231 0
 70C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\dependencies133071923185319355 1
-69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.2d6b6294.js.map133075499215197318 0
+69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.2d6b6294.js.map133075500702001417 0
 73C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\csso\lib\compress.js133071923175626183 0
 77C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\fast-glob\out\index.d.ts133071923179019761 0
 65C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\lmdb\deps.ts133071923186256844 0
@@ -2485,7 +2487,6 @@
 80C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\immutable\dist\immutable.js133071923173351909 0
 74C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@jridgewell\set-array133071923170938372 1
 85C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\immutable\dist\immutable.js.flow133071923168365250 0
-72C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.3f054ec6.js.map133075499215107559 0
 71C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\domhandler\LICENSE133071923165532837 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\immutable\dist\immutable.min.js133071923173980226 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\commander\Readme.md133071923171905774 0
@@ -3418,7 +3419,7 @@
 110C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133071923178122161 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\assets\actions-config-step-1.png133071915272974096 0
 95C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\style-scoped.js133071923203425443 0
-69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.48055f33.js.map133075499215187338 0
+69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.48055f33.js.map133075500701991440 0
 90C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\svg-css.js133071923203455360 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\CY.js133071923187393805 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\DJ.js133071923187633159 0
@@ -3469,7 +3470,7 @@
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IL.js133071923191850326 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IN.js133071923192205478 0
 89C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\webhid.js133071923204525465 0
-78C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.4fb7d7ae.js.map133075499215217256 0
+78C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.4fb7d7ae.js.map133075500701901679 0
 84C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IR.js133071923193344507 0
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\notifications.js133071923201305888 0
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\text-emphasis.js133071923203649678 0
@@ -3743,7 +3744,6 @@
 98C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-transitions.js133071923187104576 0
 87C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\json.js133071923193842283 0
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-variables.js133071923187144472 0
-68C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.b2dcd207.js133075499215107559 0
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-when-else.js133071923187154443 0
 101C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-widows-orphans.js133071923187174391 0
 74C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\css\README.md133071923171217626 0
@@ -3751,7 +3751,7 @@
 99C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-writing-mode.js133071923187204312 0
 91C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-zoom.js133071923187214282 0
 97C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css3-boxsizing.js133071923187244207 0
-74C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.4fb7d7ae.js133075499215107559 0
+74C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.4fb7d7ae.js133075500701901679 0
 94C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css3-colors.js133071923187264149 0
 100C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css3-cursors-grab.js133071923187284096 0
 101C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133071923187294068 0
@@ -3873,7 +3873,7 @@
 89C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\transformer-css\package.json133071923169921088 0
 92C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\maxlength.js133071923194469155 0
 87C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\packager-html\package.json133071923169791439 0
-69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.0ccda93c.js.map133075499215187338 0
+69C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.0ccda93c.js.map133075500701991440 0
 142C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133071923184166849 0
 98C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\media-fragments.js133071923194528999 0
 87C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\menu.js133071923194588836 0
@@ -3938,7 +3938,6 @@
 94C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\src\requests\AssetRequest.js133071923177683337 0
 95C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\setimmediate.js133071923202823674 0
 94C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\shadowdomv1.js133071923203116280 0
-72C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.b2dcd207.js.map133075499215107559 0
 89C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\tls1-3.js133071923203779335 0
 96C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\caniuse-lite\data\features\sharedworkers.js133071923203146211 0
 83C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist133071923172524119 1
@@ -4706,7 +4705,7 @@
 103C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133071923172234897 1
 103C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133071923187493550 1
 102C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133071923187523456 1
-65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.2d6b6294.js133075499215157416 0
+65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.2d6b6294.js133075500701941577 0
 94C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\custom-targets133071923187573321 1
 102C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133071923187553383 1
 97C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\duplicate-targets133071923187593270 1
@@ -4735,7 +4734,7 @@
 111C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133071923187722920 0
 107C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133071923182732736 1
 115C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133071923187633159 0
-75C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.19950fa6.css133075499215107559 0
+75C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.19950fa6.css133075500701901679 0
 108C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133071923187623186 0
 109C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133071923187603245 0
 110C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133071923187593270 0
@@ -5027,13 +5026,14 @@
 66C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\.bin\svgo.cmd133071923205261501 0
 66C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\.bin\svgo.ps1133071923205261501 0
 64C:\Users\Turov5KY\Desktop\goit-js-hw-09\node_modules\.bin\terser133071923205271474 0
-79C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.19950fa6.css.map133075499215157416 0
-78C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.c5cceb39.js.map133075499215217256 0
-65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.48055f33.js133075499215107559 0
-58C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.html133074661014913312 0
-68C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.3f054ec6.js133075499215107559 0
-61C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.html133074661014913312 0
-55C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\index.html133074661014913312 0
+79C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.19950fa6.css.map133075500701951548 0
+78C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\01-color-switcher.c5cceb39.js.map133075500701901679 0
+65C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.48055f33.js133075500701921632 0
+58C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\02-timer.html133075499270549198 0
+68C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.0a150c39.js133075500701901679 0
+68C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.dcf642d3.js133075500701901679 0
+61C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\03-promises.html133075500701901679 0
+55C:\Users\Turov5KY\Desktop\goit-js-hw-09\dist\index.html133075499270549198 0
 72C:\Users\Turov5KY\Desktop\goit-js-hw-09\assets\actions-config-step-2.png133071915272994051 0
 63C:\Users\Turov5KY\Desktop\goit-js-hw-09\assets\how-it-works.png133071915273013989 0
 68C:\Users\Turov5KY\Desktop\goit-js-hw-09\.github\workflows\deploy.yml133071915272934460 0

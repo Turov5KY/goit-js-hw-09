@@ -47,4 +47,5 @@ function optionForPromise(e) {
 
     delay = delay + step;
   }
+  form.reset();
 }
